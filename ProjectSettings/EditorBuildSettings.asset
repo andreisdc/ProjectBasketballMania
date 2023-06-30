@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/InGame.unity
+    guid: 51d47f25cb8ca7649a4db228b18dce94
+  - enabled: 1
+    path: Assets/Scenes/InAdd.unity
+    guid: b5c370c9b45ca3f40b959ee981d3ae4b
+  - enabled: 1
+    path: Assets/Scenes/InSkins.unity
+    guid: 9d5a82a548e5df9469813ea8080c319a
+  - enabled: 1
+    path: Assets/Scenes/InShop.unity
+    guid: 451859e5bc4e01b4fb8b20c8b8ff1b01
+  - enabled: 1
+    path: Assets/Scenes/InSelectMode.unity
+    guid: b076e3d3533769942a73ea619c321ed7
+  - enabled: 1
+    path: Assets/Scenes/Challenge/Ch1.unity
+    guid: 1adbd19ff238f254ba4721613e739fad
+  - enabled: 1
+    path: Assets/Scenes/Challenge/Ch2.unity
+    guid: 7b9646d08244d964faad500b8771e228
+  - enabled: 1
+    path: Assets/Scenes/Challenge/Ch3.unity
+    guid: ebe22c42209995d4cafc636d88928387
+  - enabled: 1
+    path: Assets/Scenes/Challenge/Ch4.unity
+    guid: ccff0dab9a93ddc4dbddd0fc8875647c
+  - enabled: 1
+    path: Assets/Scenes/Challenge/Ch5.unity
+    guid: f71c3a875fb432d4582486e33ebc3ea8
+  - enabled: 1
+    path: Assets/Scenes/Challenge/Ch6.unity
+    guid: a77e502d001a4ce48a78f2937821418a
+  - enabled: 1
+    path: Assets/Scenes/Challenge/Ch7.unity
+    guid: b61b8ff97c5b80f4d8fd8b89e11ad182
+  - enabled: 1
+    path: Assets/Scenes/Challenge/Ch8.unity
+    guid: b3984a57685acd7429c8f5e5265bc754
+  - enabled: 1
+    path: Assets/Scenes/Challenge/Ch9.unity
+    guid: 652af2e70c7c28746908a1998ede8bdb
+  - enabled: 1
+    path: Assets/Scenes/Challenge/Ch10.unity
+    guid: b6ebb297f99cdfb44ac676cf50a65de0
+  - enabled: 1
+    path: Assets/Scenes/Challenge/InChMode.unity
+    guid: 5031cb0a76fd5ad439f7f080f5c83c60
+  m_configObjects: {}
